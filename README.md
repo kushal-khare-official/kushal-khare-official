@@ -4,6 +4,8 @@
 <hr/>
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=kushal-khare-official&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kushal-khare-official" />
+
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [**https://kushal.codes/**](https://kushal.codes/)
@@ -23,7 +25,6 @@
 <a href="https://instagram.com/kushalcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushalcodes" height="30" width="40" /></a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=kushal-khare-official&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kushal-khare-official" />
 <a href="https://twitter.com/kushalcodes" target="blank"><img src="https://img.shields.io/twitter/follow/kushalcodes?logo=twitter&style=for-the-badge" alt="kushalcodes" /></a>
 
 <br/>
