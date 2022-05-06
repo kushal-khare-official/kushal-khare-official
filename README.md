@@ -98,8 +98,8 @@
 <hr/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal-khare-official&show_icons=true&locale=en&layout=compact" alt="kushal-khare-official" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal-khare-official&show_icons=true&locale=en&layout=compact" alt="kushal-khare-official" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal-khare-official&show_icons=true&locale=en" alt="kushal-khare-official" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal-khare-official&show_icons=true&locale=en" alt="kushal-khare-official" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushal-khare-official&" alt="kushal-khare-official" /></p>
